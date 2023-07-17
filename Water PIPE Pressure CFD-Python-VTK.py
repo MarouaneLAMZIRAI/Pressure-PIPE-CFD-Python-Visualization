@@ -1,3 +1,7 @@
+# Author : Marouane LAMZIRAI
+# Date : 17/07/2023
+
+
 import vtk
 from vtk.util import numpy_support
 import numpy as np
